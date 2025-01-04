@@ -2,6 +2,13 @@
 
 ###  **WebGL Shader Examples**
 
+<p align="center">
+    <img src="figures/animatedTriangleColor.gif" alt="animated" width="200">
+  <img src="figures/animatedPyramidColor.gif" alt="animated" width="200">
+  <img src="figures/binnPhongShading.gif" alt="animated" width="200">
+  <img src="figures/appearingPyramid.gif" alt="animated" width="200">
+</p>
+
 #### **Overview**
 This repository showcases a variety of WebGL examples demonstrating the use of **vertex shaders**, **fragment shaders**, and different lighting models for 3D rendering. It is designed to help developers and enthusiasts understand and experiment with WebGL concepts, including geometry, shading, and lighting techniques.
 
